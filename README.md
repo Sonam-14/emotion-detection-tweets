@@ -60,6 +60,7 @@ We built a **Gradio web app** where users can enter a tweet and get emotion pred
 - Logistic Regression (TF-IDF)
 - BERT (optional toggle)
 
+![Demo Screenshot](demo.png)
 
 ---
 
