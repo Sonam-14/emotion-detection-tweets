@@ -64,7 +64,7 @@ We built a **Gradio web app** where users can enter a tweet and get emotion pred
 
 ---
 
-## 🧾 How to Run
+##  How to Run
 
 1. Clone the repo or open the notebook in Google Colab
 2. Run all cells
